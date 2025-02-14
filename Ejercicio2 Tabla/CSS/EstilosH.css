@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.Cabecera{
+    border: 1px solid #000000;
+    background-color: #470250;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    padding: auto;
+    font-size: 30px;
+}
+
+.Materia{
+    border: 1px solid #000000;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(14, 14, 14);
+    padding: 8px;
+    font-size: medium;
+}
