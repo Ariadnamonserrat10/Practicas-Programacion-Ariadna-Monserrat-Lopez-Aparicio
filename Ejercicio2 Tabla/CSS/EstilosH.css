@@ -13,6 +13,7 @@ table{
     font-size: 30px;
 }
 
+
 .Materia{
     border: 1px solid #000000;
     text-align: left;
@@ -20,4 +21,23 @@ table{
     color: rgb(14, 14, 14);
     padding: 8px;
     font-size: medium;
+}
+
+.Contenido{
+    border: 1px solid #000000;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #dacedb;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    padding: 5px;
+    font-size: 30px;
+    background-color: #dacedb;
+    color: rgb(0, 0, 0);
 }
