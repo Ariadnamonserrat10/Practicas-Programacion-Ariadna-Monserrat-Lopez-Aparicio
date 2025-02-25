@@ -1,0 +1,21 @@
+.Btn1{
+    background-color:rgb(211, 195, 226);
+    color: white;
+}
+.Btn2{
+    background-color:rgb(147, 224, 157);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.Btn3{
+    background-color:rgb(112, 112, 161);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace
+}
