@@ -1,15 +1,15 @@
-.Btn1{
+.btn1{
     background-color:rgb(211, 195, 226);
     color: white;
 }
-.Btn2{
+.btn2{
     background-color:rgb(147, 224, 157);
     color: white;
     border-radius: 15px;
     padding: 10px 20px;
 }
 
-.Btn3{
+.btn3{
     background-color:rgb(214, 206, 87);
     color: white;
     border-radius: 15px;
@@ -17,5 +17,5 @@
     text-align: end;
     border: none;
     font-size: 25px;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
 }
