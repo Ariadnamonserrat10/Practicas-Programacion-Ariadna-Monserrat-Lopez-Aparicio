@@ -1,0 +1,18 @@
+.btn{
+    background-color:rgb(134, 126, 13);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 10px;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(36, 128, 51);
+}
+
+.lab{
+    background-color: aquamarine;
+}

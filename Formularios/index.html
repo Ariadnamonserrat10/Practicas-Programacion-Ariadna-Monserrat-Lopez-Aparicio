@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Estilos.css">
+    <title>Formularios</title>
+</head>
+
+<body>
+    <h1>Formulario de ejemplo</h1>
+        <form action="/submit" method="post">
+            <label class="lab" for="name">Nombre:</label>
+                <input type="text" id="name" name="Ariadna" required><br><br>
+
+            <label class="lab" for="email">Correo Electronico</label>
+                <input type="text" id="email" name="email" required><br><br>
+
+            <label class="lab" for="password">Contraseña</label>
+                <input type="text" id="password" name="password" required><br><br>
+
+            <label class="lab" for="city">Ciudad</label>
+            <select name="city" id="city">
+                <option value="poo">POO</option>
+                <option value="ai">AI</option>
+            </select><br><br>
+        <button class="btn" type="submit">Enviar</button>
+    </form>
+</body>
+
+</html>
