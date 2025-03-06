@@ -13,6 +13,7 @@ h1{
     color: rgb(36, 128, 51);
 }
 
-.lab{
-    background-color: aquamarine;
+input,label{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(32, 87, 41);
 }

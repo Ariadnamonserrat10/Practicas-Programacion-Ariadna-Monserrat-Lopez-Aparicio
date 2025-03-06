@@ -1,0 +1,21 @@
+.boton1{
+    background-color:rgb(248, 176, 245);
+    color: white;
+    border-radius: 15px;
+    padding: 9px 10px;
+    text-align: center;
+    border: none;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.boton2{
+    background-color:rgb(95, 90, 148);
+    color: white;
+    border-radius: 15px;
+    padding: 9px 10px;
+    text-align: center;
+    border: none;
+    font-size: 25px;
+    font-family: fantasy;
+}
